@@ -1,0 +1,26 @@
+npm install nativewind tailwindcss react-native-reanimated@3.16.2 react-native-safe-area-context
+npm i react-native-modal
+npm install @clerk/clerk-expo
+npm install @clerk/types
+npm install expo-secure-store
+npm i framer-motion
+npm install motion
+npm i expo-linear-gradient
+npm install framer-motion motion
+npm i lucide-react-native
+npm i @expo/vector-icons
+npm install expo-av
+npm install expo-router
+npm i @expo/vector-icons
+npm install @react-native-firebase/app @react-native-firebase/firestore
+npx expo install firebase
+expo install firebase
+npm i expo-av
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons react-native-svg
+npm install @react-navigation/stack
+npm i react-native-vector-icons
+npm i react-icons
+npm i tailwind-rn
+react-native-paper
+npm install axios react-native-async-storage/async-storage

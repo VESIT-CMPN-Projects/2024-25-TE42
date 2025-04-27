@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.4",
+    "expo-av": "^15.0.2",
+    "react-native-linear-gradient": "^2.8.3"
+  }
+}

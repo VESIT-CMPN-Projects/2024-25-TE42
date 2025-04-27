@@ -1,0 +1,102 @@
+[
+  {
+    "question": "I have lost interest in activities I used to enjoy.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have difficulty concentrating or making decisions.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have feelings of worthlessness or guilt.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have thoughts of death or suicide.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have changes in my appetite.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have changes in my sleep patterns.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have decreased energy levels.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have difficulty controlling my emotions.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have physical aches and pains.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "I have withdrawn from social activities.",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  }
+]

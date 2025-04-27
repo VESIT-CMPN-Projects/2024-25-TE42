@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Do you have an intense fear of germs or contaminants?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do you feel the need to check things repeatedly, such as locks or switches?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do you have a strict need for things to be orderly or symmetrical?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do you feel the need to perform repetitive behaviors in order to reduce your anxiety?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do your obsessions and compulsions take up a lot of your time?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do you feel like you can't control your obsessions and compulsions?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do you have thoughts of contamination?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do you try to resist your obsessions or compulsions, but find it difficult to do so?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do you have thoughts of symmetry or order?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  },
+  {
+    "question": "Do you have thoughts of needing to repeat words or phrases?",
+    "answers": [
+      { "text": "Never", "score": 0 },
+      { "text": "Rarely", "score": 1 },
+      { "text": "Sometimes", "score": 2 },
+      { "text": "Often", "score": 3 },
+      { "text": "Always", "score": 4 }
+    ]
+  }
+]
